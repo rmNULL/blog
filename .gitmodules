@@ -1,0 +1,3 @@
+[submodule "blog/themes/lightspeed"]
+	path = blog/themes/lightspeed
+	url = git@github.com:rmNULL/lightspeed.git
